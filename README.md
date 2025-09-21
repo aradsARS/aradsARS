@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm arads!<br><br>🎨 I'm a passionate Frontend Developer focused on building engaging, responsive, and visually appealing user interfaces. I specialize in HTML, CSS, JavaScript, and React to create seamless user experiences.<br><br>🌱 Currently exploring Next.js and improving my skills in UI/UX Design to build better web applications.<br><br>🚀 Feel free to check out my repositories to see some of my projects!<br><br>📫 Reach me: pribradhwa1@gmail.com
 
 <p align = "center">
