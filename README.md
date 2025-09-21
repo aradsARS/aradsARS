@@ -1,6 +1,14 @@
 # 💫 About Me:
 👋 Hi, I'm arads!<br><br>🎨 I'm a passionate Frontend Developer focused on building engaging, responsive, and visually appealing user interfaces. I specialize in HTML, CSS, JavaScript, and React to create seamless user experiences.<br><br>🌱 Currently exploring Next.js and improving my skills in UI/UX Design to build better web applications.<br><br>🚀 Feel free to check out my repositories to see some of my projects!<br><br>📫 Reach me: pribradhwa1@gmail.com
 
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fZJRTc8Z) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aradsss_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arads.1) 
@@ -19,3 +27,6 @@
 [![](https://visitcount.itsvg.in/api?id=aradsARS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
